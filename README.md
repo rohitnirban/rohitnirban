@@ -28,7 +28,7 @@
 
 ---
 
-<img align="left" alt="Rohit Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitnirban&show_icons=true&hide_border=true" />
+<img align="left" alt="Rohit Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitnirban" />
 
 [website]: https://www.royad.ga
 [linkedin]: https://www.linkedin.com/in/rohitnirban
