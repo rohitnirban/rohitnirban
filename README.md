@@ -1,7 +1,7 @@
 ### Hi there, I'm Rohit Yadav 👋
 
 ## I'm a Full-stack Software Developer
-- 🔭 I build projects in free time @ [Website][https://www.royad.ga]
+- 🔭 I build projects in free time @ [Website][https://www.rohitnirban.vercel.app]
 - 🌱 I’m continuously learning new skills 🤣
 
 ### Connect with me:
