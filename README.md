@@ -1,12 +1,12 @@
 ### Hi there, I'm Rohit Yadav 👋
 
 ## I'm a Full-stack Software Developer
-- 🔭 I build projects in free time @ [Website][https://rohitnirban.vercel.app]
+- 🔭 I build projects in free time @ [Website](https://rohitnirban.vercel.app)
 - 🌱 I’m continuously learning new skills 🤣
 
 ### Connect with me:
 
-[<img align="left" alt="Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://rohitnirban.vercel.app]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rohitnirban.vercel.app)
 [<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][linkedin]
 
 <br />
