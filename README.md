@@ -1,5 +1,7 @@
 ### Hi there, I'm Rohit Yadav 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitnirban&label=Profile%20views&color=0e75b6&style=flat" alt="httpsabhi" /> </p>
+
 ## I'm a Full-stack Software Developer
 - 🔭 I build projects in free time @ [Website](https://rohitnirban.vercel.app)
 - 🌱 I’m continuously learning new skills 🤣
@@ -28,9 +30,14 @@
 
 ---
 
-<img align="left" alt="Rohit Yadav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rohitnirban" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitnirban&show_icons=true&locale=en" alt="rohitnirban" /></p>
 
-[website]: https://www.royad.ga
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitnirban&show_icons=true&locale=en&layout=compact" alt="rohitnirban" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitnirban&" alt="rohitnirban" /></p>
+
+
+[website]: https://www.rohitnirban.vercel.app
 [linkedin]: https://www.linkedin.com/in/rohitnirban
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA
 [jsplaylist]: https://www.youtube.com/watch?v=KlLdNSvmoKI&list=PLXQpH_kZIxTVeSYQXLtpvMBCirxKCxqZz
