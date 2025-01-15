@@ -7,6 +7,10 @@
 <h2 align="left">Hi there, I'm Rohit Yadav 👋</h2>
 
 ###
+
+### [My Website 💻](https://rohitnirban.com)
+
+
 <div align="left">
   <ul>
     <li>
@@ -23,10 +27,6 @@
 
   </ul>
 </div>
-
-
-
-### [My Website 💻](https://rohitnirban.com)
 
 ###
 
