@@ -89,7 +89,10 @@
 <details>
 <summary><b>A Protective Headgear for Riders (Research Paper)</b></summary>
 <ul>
-<br>
+  <br>
+<p>
+  <a href="https://pubs.aip.org/aip/acp/article-abstract/3224/1/020053/3335133/A-smart-protective-headgear-for-a-rider?redirectedFrom=fulltext" target="_blank">View Indexed Paper</a>
+</p>
 <p>
   <b>Problem:</b> Enhancing rider safety through advanced technology to prevent accidents and enable quick emergency response.
 </p>
