@@ -116,7 +116,9 @@
 <p>
   <a href="https://github.com/rohitnirban/sih-2024-nct-delhi" target="_blank">Github repo of solution</a>
 </p>
-
+  <p>
+  <a href="https://res.cloudinary.com/dpagdxk01/image/upload/v1740586017/CERTIFICATE_k0wuwk.jpg" target="_blank">View Certificate</a>
+</p>
 <p>
   <b>Problem:</b> Real-time survey and monitoring of water bodies in Delhi to improve water quality management.
 </p>
