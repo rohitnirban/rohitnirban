@@ -22,7 +22,7 @@
 <p align="left">🔭 I build projects in free time</p>
 </li>
 <li>
-<p align="left">🔗 I created <a href="https://urhb.in" target="_blank">UrlHub</a>, a powerful URL shortener offering advanced tools and analytics - all completely free!</p>
+<p align="left">🔗 I created <a href="https://urhb.in" target="_blank">UrlHub</a>, a powerful URL shortener offering advanced tools and analytics</p>
 </li>
 
   </ul>
